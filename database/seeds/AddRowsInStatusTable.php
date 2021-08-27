@@ -3,7 +3,7 @@
 use Illuminate\Database\Seeder;
 use App\Status;
 
-class addRowsInStatusTable extends Seeder
+class AddRowsInStatusTable extends Seeder
 {
     /**
      * Run the database seeds.
